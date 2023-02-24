@@ -1,2 +1,2 @@
-# registrationForm
-basic registration form
+# RegistrationForm
+This is a sample registration form
